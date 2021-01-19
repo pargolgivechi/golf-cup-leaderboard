@@ -1,18 +1,44 @@
 <template>
-  <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js + TypeScript App"/>
+  <div id="home-page">
+    <div class="list-box">
+      <ListItem v-for="(round, i) in rounds" :key="i" :round="round" />
+    </div>
   </div>
 </template>
 
 <script lang="ts">
 import { Component, Vue } from 'vue-property-decorator'
-import HelloWorld from '@/components/HelloWorld.vue' // @ is an alias to /src
+import { mapState } from 'vuex'
+import ListItem from '@/components/ListItem.vue'
 
 @Component({
   components: {
-    HelloWorld
-  }
+    ListItem
+  },
+  computed: mapState([
+    'rounds'
+  ])
 })
-export default class Home extends Vue {}
+
+export default class Home extends Vue {
+  public rounds!: Array<object>;
+
+  mounted () {
+    this.$store.dispatch('getRounds')
+  }
+}
 </script>
+
+<style lang="scss">
+#home-page{
+  width: 80%;
+  margin: auto;
+
+  .list-box {
+    width: 75%;
+    margin: 10% auto;
+    background-color: #d3d3d3;
+    filter: brightness(119%);
+  }
+}
+</style>

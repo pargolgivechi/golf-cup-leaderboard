@@ -1,0 +1,81 @@
+[
+  {
+    "id": 1829,
+    "status": 4,
+    "is_resetable": true,
+    "users": [
+      {
+        "id": 4849,
+        "cup_user_id": null,
+        "first_name": "Rolf",
+        "last_name": "Gerhards",
+        "images": [
+          {
+            "default": "https:\/\/d40lni4zfjpyo.cloudfront.net\/default-user-picture",
+            "140": "https:\/\/d40lni4zfjpyo.cloudfront.net\/default-user-picture-140",
+            "210": "https:\/\/d40lni4zfjpyo.cloudfront.net\/default-user-picture-210",
+            "560": "https:\/\/d40lni4zfjpyo.cloudfront.net\/default-user-picture-560"
+          }
+        ],
+        "scores": [],
+        "stroke_count_difference": [
+          0,
+          2,
+          1,
+          2,
+          0,
+          0,
+          0,
+          1
+        ],
+        "total_scores": [],
+        "stroke_count": 0,
+        "team": 1,
+        "tee_id": null,
+        "status": 1,
+        "forfeit": false
+      },
+      {
+        "id": 4851,
+        "cup_user_id": null,
+        "first_name": "Monika",
+        "last_name": "Herrmann",
+        "images": [
+          {
+            "default": "https:\/\/d40lni4zfjpyo.cloudfront.net\/4485\/medialibrarytTH4e9-optimized",
+            "140": "https:\/\/d40lni4zfjpyo.cloudfront.net\/4485\/medialibrarytTH4e9-140",
+            "210": "https:\/\/d40lni4zfjpyo.cloudfront.net\/4485\/medialibrarytTH4e9-210",
+            "560": "https:\/\/d40lni4zfjpyo.cloudfront.net\/4485\/medialibrarytTH4e9-560"
+          }
+        ],
+        "scores": [],
+        "stroke_count_difference": [
+          0,
+          2,
+          1,
+          2,
+          0,
+          0,
+          0,
+          1
+        ],
+        "total_scores": [],
+        "stroke_count": 0,
+        "team": 2,
+        "tee_id": null,
+        "status": 1,
+        "forfeit": false
+      }
+    ],
+    "match": {
+      "id": 2845,
+      "winning_score": -1,
+      "holes_not_played": 0,
+      "winning_team": 1,
+      "played_at": "2019-04-21 06:31:13",
+      "verified_at": "2019-04-21 06:31:13",
+      "forfeit": false
+    },
+    "next_id": null
+  }
+]

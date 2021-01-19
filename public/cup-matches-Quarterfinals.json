@@ -1,0 +1,318 @@
+[
+  {
+    "id": 1823,
+    "status": 4,
+    "is_resetable": false,
+    "users": [
+      {
+        "id": 4854,
+        "cup_user_id": null,
+        "first_name": "Michel",
+        "last_name": "Honay",
+        "images": [
+          {
+            "default": "https:\/\/d40lni4zfjpyo.cloudfront.net\/default-user-picture",
+            "140": "https:\/\/d40lni4zfjpyo.cloudfront.net\/default-user-picture-140",
+            "210": "https:\/\/d40lni4zfjpyo.cloudfront.net\/default-user-picture-210",
+            "560": "https:\/\/d40lni4zfjpyo.cloudfront.net\/default-user-picture-560"
+          }
+        ],
+        "scores": [],
+        "stroke_count_difference": [
+          0,
+          2,
+          1,
+          2,
+          0,
+          0,
+          0,
+          1
+        ],
+        "total_scores": [],
+        "stroke_count": 0,
+        "team": 1,
+        "tee_id": null,
+        "status": 1,
+        "forfeit": false
+      },
+      {
+        "id": 4849,
+        "cup_user_id": null,
+        "first_name": "Rolf",
+        "last_name": "Gerhards",
+        "images": [
+          {
+            "default": "https:\/\/d40lni4zfjpyo.cloudfront.net\/default-user-picture",
+            "140": "https:\/\/d40lni4zfjpyo.cloudfront.net\/default-user-picture-140",
+            "210": "https:\/\/d40lni4zfjpyo.cloudfront.net\/default-user-picture-210",
+            "560": "https:\/\/d40lni4zfjpyo.cloudfront.net\/default-user-picture-560"
+          }
+        ],
+        "scores": [],
+        "stroke_count_difference": [
+          0,
+          2,
+          1,
+          2,
+          0,
+          0,
+          0,
+          1
+        ],
+        "total_scores": [],
+        "stroke_count": 0,
+        "team": 2,
+        "tee_id": null,
+        "status": 1,
+        "forfeit": false
+      }
+    ],
+    "match": {
+      "id": 2765,
+      "winning_score": -1,
+      "holes_not_played": 0,
+      "winning_team": 1,
+      "played_at": "2019-04-14 18:36:18",
+      "verified_at": "2019-04-14 18:36:19",
+      "forfeit": false
+    },
+    "next_id": 1827
+  },
+  {
+    "id": 1824,
+    "status": 4,
+    "is_resetable": false,
+    "users": [
+      {
+        "id": 4848,
+        "cup_user_id": null,
+        "first_name": "Philippe",
+        "last_name": "GERARD",
+        "images": [
+          {
+            "default": "https:\/\/d40lni4zfjpyo.cloudfront.net\/4115\/medialibrarydsgyU1-optimized",
+            "140": "https:\/\/d40lni4zfjpyo.cloudfront.net\/4115\/medialibrarydsgyU1-140",
+            "210": "https:\/\/d40lni4zfjpyo.cloudfront.net\/4115\/medialibrarydsgyU1-210",
+            "560": "https:\/\/d40lni4zfjpyo.cloudfront.net\/4115\/medialibrarydsgyU1-560"
+          }
+        ],
+        "scores": [],
+        "stroke_count_difference": [
+          0,
+          2,
+          1,
+          2,
+          0,
+          0,
+          0,
+          1
+        ],
+        "total_scores": [],
+        "stroke_count": 0,
+        "team": 1,
+        "tee_id": null,
+        "status": 1,
+        "forfeit": false
+      },
+      {
+        "id": 4862,
+        "cup_user_id": null,
+        "first_name": "Guido",
+        "last_name": "Wendland",
+        "images": [
+          {
+            "default": "https:\/\/d40lni4zfjpyo.cloudfront.net\/default-user-picture",
+            "140": "https:\/\/d40lni4zfjpyo.cloudfront.net\/default-user-picture-140",
+            "210": "https:\/\/d40lni4zfjpyo.cloudfront.net\/default-user-picture-210",
+            "560": "https:\/\/d40lni4zfjpyo.cloudfront.net\/default-user-picture-560"
+          }
+        ],
+        "scores": [],
+        "stroke_count_difference": [
+          0,
+          2,
+          1,
+          2,
+          0,
+          0,
+          0,
+          1
+        ],
+        "total_scores": [],
+        "stroke_count": 0,
+        "team": 2,
+        "tee_id": null,
+        "status": 3,
+        "forfeit": false
+      }
+    ],
+    "match": {
+      "id": 2721,
+      "winning_score": -1,
+      "holes_not_played": 0,
+      "winning_team": 1,
+      "played_at": "2019-04-13 00:00:00",
+      "verified_at": null,
+      "forfeit": false
+    },
+    "next_id": 1827
+  },
+  {
+    "id": 1825,
+    "status": 4,
+    "is_resetable": false,
+    "users": [
+      {
+        "id": 4847,
+        "cup_user_id": null,
+        "first_name": "Beno\u00eet",
+        "last_name": "Gavage",
+        "images": [
+          {
+            "default": "https:\/\/d40lni4zfjpyo.cloudfront.net\/4305\/medialibraryIz18nx-optimized",
+            "140": "https:\/\/d40lni4zfjpyo.cloudfront.net\/4305\/medialibraryIz18nx-140",
+            "210": "https:\/\/d40lni4zfjpyo.cloudfront.net\/4305\/medialibraryIz18nx-210",
+            "560": "https:\/\/d40lni4zfjpyo.cloudfront.net\/4305\/medialibraryIz18nx-560"
+          }
+        ],
+        "scores": [],
+        "stroke_count_difference": [
+          0,
+          2,
+          1,
+          2,
+          0,
+          0,
+          0,
+          1
+        ],
+        "total_scores": [],
+        "stroke_count": 0,
+        "team": 1,
+        "tee_id": null,
+        "status": 1,
+        "forfeit": false
+      },
+      {
+        "id": 4843,
+        "cup_user_id": null,
+        "first_name": "Christophe",
+        "last_name": "Breuer",
+        "images": [
+          {
+            "default": "https:\/\/d40lni4zfjpyo.cloudfront.net\/3991\/medialibraryw3jo6G-optimized",
+            "140": "https:\/\/d40lni4zfjpyo.cloudfront.net\/3991\/medialibraryw3jo6G-140",
+            "210": "https:\/\/d40lni4zfjpyo.cloudfront.net\/3991\/medialibraryw3jo6G-210",
+            "560": "https:\/\/d40lni4zfjpyo.cloudfront.net\/3991\/medialibraryw3jo6G-560"
+          }
+        ],
+        "scores": [],
+        "stroke_count_difference": [
+          0,
+          2,
+          1,
+          2,
+          0,
+          0,
+          0,
+          1
+        ],
+        "total_scores": [],
+        "stroke_count": 0,
+        "team": 2,
+        "tee_id": null,
+        "status": 1,
+        "forfeit": false
+      }
+    ],
+    "match": {
+      "id": 2720,
+      "winning_score": -1,
+      "holes_not_played": 0,
+      "winning_team": 1,
+      "played_at": "2019-04-13 00:00:00",
+      "verified_at": "2019-04-13 12:34:19",
+      "forfeit": false
+    },
+    "next_id": 1828
+  },
+  {
+    "id": 1826,
+    "status": 4,
+    "is_resetable": false,
+    "users": [
+      {
+        "id": 4851,
+        "cup_user_id": null,
+        "first_name": "Monika",
+        "last_name": "Herrmann",
+        "images": [
+          {
+            "default": "https:\/\/d40lni4zfjpyo.cloudfront.net\/4485\/medialibrarytTH4e9-optimized",
+            "140": "https:\/\/d40lni4zfjpyo.cloudfront.net\/4485\/medialibrarytTH4e9-140",
+            "210": "https:\/\/d40lni4zfjpyo.cloudfront.net\/4485\/medialibrarytTH4e9-210",
+            "560": "https:\/\/d40lni4zfjpyo.cloudfront.net\/4485\/medialibrarytTH4e9-560"
+          }
+        ],
+        "scores": [],
+        "stroke_count_difference": [
+          0,
+          2,
+          1,
+          2,
+          0,
+          0,
+          0,
+          1
+        ],
+        "total_scores": [],
+        "stroke_count": 0,
+        "team": 1,
+        "tee_id": null,
+        "status": 1,
+        "forfeit": false
+      },
+      {
+        "id": 4141,
+        "cup_user_id": null,
+        "first_name": "Philippe",
+        "last_name": "Duyckaerts",
+        "images": [
+          {
+            "default": "https:\/\/d40lni4zfjpyo.cloudfront.net\/3937\/medialibraryyBy8Sl-optimized",
+            "140": "https:\/\/d40lni4zfjpyo.cloudfront.net\/3937\/medialibraryyBy8Sl-140",
+            "210": "https:\/\/d40lni4zfjpyo.cloudfront.net\/3937\/medialibraryyBy8Sl-210",
+            "560": "https:\/\/d40lni4zfjpyo.cloudfront.net\/3937\/medialibraryyBy8Sl-560"
+          }
+        ],
+        "scores": [],
+        "stroke_count_difference": [
+          0,
+          2,
+          1,
+          2,
+          0,
+          0,
+          0,
+          1
+        ],
+        "total_scores": [],
+        "stroke_count": 0,
+        "team": 2,
+        "tee_id": null,
+        "status": 3,
+        "forfeit": false
+      }
+    ],
+    "match": {
+      "id": 2764,
+      "winning_score": -1,
+      "holes_not_played": 0,
+      "winning_team": 1,
+      "played_at": "2019-04-14 00:00:00",
+      "verified_at": null,
+      "forfeit": false
+    },
+    "next_id": 1828
+  }
+]
